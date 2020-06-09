@@ -29,12 +29,14 @@
 </p>
 
 <p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## 💻 Project
+## 💻 Projects
 
 A bunch of vanilla Javascript(HTML/CSS) projects just to practice and fun!
+
+[1 - Form Validator](https://github.com/WallaceGomes/vanilla-javascript/tree/master/FormValidador)
 
 Made with ♥ by Wallace Gomes :wave: [Get in touch!](https://www.linkedin.com/in/wallace-cardoso-gomes/)
 
