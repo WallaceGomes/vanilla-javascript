@@ -1,15 +1,11 @@
-# vanilla-javascript
-
-A bunch of vanilla Javascript(HTML/CSS) projects just to practice and fun!
-
 <!-- Gera uma imagem no centro do readme, dê preferência para usar SVG  -->
 <h1 align="center">
     <img alt="logoJS" title="#logoJS" src=".github/js_logo.svg" width="300px"/>
 </h1>
 
-<h4 align="center"> 
+<h1 align="center"> 
 	:construction: Vanilla JS :construction:
-</h4>
+</h1>
 
 <p align="center">
   <!-- Mostra um botão que tem uma contagem de quantos tipos diferentes de linguagens são utilizadas nesse repositório -->
