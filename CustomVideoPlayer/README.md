@@ -10,7 +10,7 @@
 
 ## 💻 Project
 
-A customized video player with css and vanilla javascript
+A customized video player with HTML5, css and vanilla Javascript using the video API
 
 <!-- Gera uma imagem no centro do readme, dê preferência para usar SVG  -->
 <h1 align="center">
