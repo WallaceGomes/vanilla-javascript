@@ -36,9 +36,11 @@
 
 A bunch of vanilla Javascript(HTML/CSS) projects just to practice and fun!
 
-[1 - Form Validator](https://github.com/WallaceGomes/vanilla-javascript/tree/master/FormValidador)
-[2 - Movie Seat Booking](https://github.com/WallaceGomes/vanilla-javascript/tree/master/MovieSeatBooking)
-[2 - Custom Video PLayer](https://github.com/WallaceGomes/vanilla-javascript/tree/master/CustomVideoPlayer)
+[1 - Form Validator](https://github.com/WallaceGomes/vanilla-javascript/tree/master/FormValidador)</p>
+
+[2 - Movie Seat Booking](https://github.com/WallaceGomes/vanilla-javascript/tree/master/MovieSeatBooking)</p>
+
+[3 - Custom Video PLayer](https://github.com/WallaceGomes/vanilla-javascript/tree/master/CustomVideoPlayer)</p>
 
 Made with ♥ by Wallace Gomes :wave: [Get in touch!](https://www.linkedin.com/in/wallace-cardoso-gomes/)
 
